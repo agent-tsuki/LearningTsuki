@@ -2,8 +2,15 @@
 #     if(i%2==0):
 #         print(i)
 
-a=8
-b=2
-while(a%b==0):
-    print("even number")
-    b+=1
+# def number():
+#     a=8
+#     b=2
+#     while(a%b==0):
+#         print("even number")
+#         b+=1
+# number()
+# print("true")
+# number()
+# print("true")
+# number()
+# print("true")
