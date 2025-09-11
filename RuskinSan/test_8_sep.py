@@ -93,3 +93,19 @@
 # ======================================
 # End of Test
 # ======================================
+
+# 8 out of 10
+####################################################
+################# Good keep it up #################
+####################################################
+
+"""
+Remark: Good job! You answered most questions correctly.
+    Only a couple of minor mistakes. Keep practicing!
+
+Total Score: 8/10
+
+You have very weak understanding of for loop and while loop.
+and you need to improve your understanding of sets
+"""
+
