@@ -11,8 +11,18 @@ create a sting with max 10 length
 # a="I want to practice more python "
 # print(len(a))
 
-a="I want to practice more python"
+#a="I want to practice more python"
 # print(a[0])   
 # print(a[29])
 # print(a[0:6])
 # print(a[0:29:2])
+
+a="I am a good girl"
+print(a.upper())
+print(a.lower())
+print(a[-1])
+print(len(a))
+b="ShivamPythonSudhanshuPythonRuskinPython"
+print(b.split("Python"))
+for i in b:
+    print(i)
