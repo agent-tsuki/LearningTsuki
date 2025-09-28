@@ -22,7 +22,12 @@
 # #############################################################
 # #############################################################
 
-a = "Hello Shivam"
-print(a)
-a = a.replace("o", "")
-print(a)
+a = "code hello"
+r = ""
+
+for i in a:
+    print(f"value of i: {i}, {i} != 'l': {i != 'l'}, value of r: {r}")
+    if i != "l":
+        r = r + i
+    print(f"update value of r: {r}")
+print(r)
